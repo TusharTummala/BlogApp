@@ -47,7 +47,7 @@ function Articles() {
                   <span>Read More</span>
                 </button>
                 <small className="text-muted d-block mt-2">
-                  Last updated on {article.dateOfModification}
+                  Last updated on {article.ModificationDate}
                 </small>
               </div>
             </div>
